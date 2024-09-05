@@ -1,0 +1,103 @@
+.main-container{
+    height:10vh;
+  width: 170vh;
+   font-weight: 300; 
+   font-family:Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  
+}
+.logo{
+    height: 5vh;
+    width: 5vh;
+
+}
+
+.input{
+    width: 100vh;
+    height: 5vh;
+    border-color: aliceblue;
+    border-radius: 60vh;
+    font-size: 15px ;
+    padding-left: 10px;
+}
+
+.second-container{
+    margin-top: 50px;
+    /* height: 90vh; */
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+.third-container{
+    margin-top: 120px;
+    /* height: 90vh; */
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+button{
+   border: 50vh;
+   border-radius:  vh;
+   color: black;
+}
+.card{
+    /* border: 2px solid black; */
+    height: 200px;
+    width: 150px;
+    border-radius: 10%;
+    
+}
+.card11{
+    height: 200px;
+    width: 150px;
+    border-radius: 10%;
+
+}
+.card12{
+    height: 300px;
+    width: 160px;
+    border-radius: 10%;
+
+}
+.card13{
+    height: 260px;
+    width: 160px;
+    border-radius: 10%;
+
+}
+.card22{
+    /* margin-top: 20px; */
+    height: 270px;
+    width: 160px;
+    border-radius: 10%;
+
+}
+.card10{
+    /* margin-top: 20px; */
+    height: 270px;
+    width: 160px;
+    border-radius: 10%;
+
+}
+.card33{
+    /* margin-top: 20px; */
+    height: 280px;
+    width: 160px;
+    border-radius: 10%;
+
+}
+.card122{
+    /* margin-top: 20px; */
+    height: 250px;
+    width: 160px;
+    border-radius: 10%;
+}
